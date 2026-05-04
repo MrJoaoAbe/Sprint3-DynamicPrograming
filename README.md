@@ -1,5 +1,12 @@
 # Checkpoint 2 — Dynamic Programming (FIAP)
 
+## Integrantes:
+- Eduardo Santiago Bassan – RM: 561474  
+- Henry Andrade Browne – RM: 562622  
+- João Victor de Souza Abe – RM: 561446  
+- Mariana S. do Egito Moreira – RM: 562544  
+- Deivid Ruan – RM: 566356  
+
 ## Sobre o Projeto
 
 Este projeto tem como objetivo modelar redes de metrô como grafos ponderados e aplicar técnicas de programação dinâmica para encontrar:
